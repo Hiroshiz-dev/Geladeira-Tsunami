@@ -66,7 +66,7 @@ app.listen(port, () => {
 });
 
 
-client.login(process.env.TOKEN);
+client.login(process.env.MTI2OTM1NzIwNDkzMTM1MDYyMQ.GKelDL.dFyJl9Lmq4qPgYYLu5lvKcV3qXrEts95Gg6vWE);
 
 module.exports = client;
 
